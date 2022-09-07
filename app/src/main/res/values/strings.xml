@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Betawinese</string>
+    <string name="hello">Halo,</string>
+    <string name="betawinese">Betawinese!</string>
+    <string name="seni_tari">Seni Tari</string>
+    <string name="budaya_title">Seni Tari</string>
+    <string name="budaya_desc">Tarian Betawi juga mempunyai ciri khas tersendiri, berikut ini beberapa tarian tradisional yang patut diketahui.</string>
+    <string name="gambar_budaya">Gambar Budaya</string>
+    <string name="title_about">About</string>
+    <string name="title_home">Home</string>
+    <string name="title_like">Like</string>
+    <string name="hello_blank_fragment">test</string>
+    <string name="setu_babakan">Setu babakan</string>
+    <string name="title_help">Help</string>
+    <string name="icon_back">Back</string>
+    <string name="gambar_detail">Gambar Detail</string>
+    <string name="detail_creator">Pencipta</string>
+    <string name="like_title">Like</string>
+    <string name="like_item">Anda menyukai Seni Tari lenggang nyai</string>
+    <string name="icon_heart">heart</string>
+    <string name="gambar_profile">gambar profile</string>
+    <string name="comment_name">Shafa</string>
+    <string name="comment_message">desain menarik dan informasi tersampaikan dengan baik</string>
+    <string name="comment_title">Komentar</string>
+    <string name="label_name">Hi, name</string>
+    <string name="label_message">Share your thought</string>
+    <string name="label_send">Kirim</string>
+    <string name="sumber">Sumber : setubabakanbetawi.com</string>
+    <string name="title_setu_babakan">Setu Babakan</string>
+    <string name="desc_setu_babakan">Setu Babakan adalah salah satu perkampungan Betawi yang terletak di Srengseng Sawah, Kecamatan Jagakarsa. Perkampungan Budaya Betawi ini berfungsi sebagai area untuk pelestarian budaya Jakarta, yaitu budaya asli Betawi. Di sini wisatawan dapat mengetahui dan mempelajari tentang kebudayaan Betawi.
+
+Setu Babakan merupakan kawasan Cagar Budaya Betawi yang didirikan sejak tahun 2004 dan ditetapkan Pemerintah Jakarta sebagai tempat pelestarian pengembangan budaya Betawi. Cagar budaya ini kemudian berubah menjadi destinasi wisata budaya. Banyak warisan budaya Betawi yang ada di sini.
+
+Pada tahun 2016, perkampungan Budaya Betawi ini mulai membuat museum Betawi yang megah dengan panduan warna dan terdiri dari tiga lantai. Museum ini juga menyimpan berbagai perlengkapan khas suku dan budayaya Betawi seperti alat musik tanjidor, wayang golek, bajua adat betawi, ondel-ondel dan banyak lainnya. </string>
+    <string name="title_web_setu_babakan">Website SetuBabakanBetawi</string>
+    <string name="desc_web_setu_babakan">Website setubabakanbetawi.com berisi informasi hasil riset di Perkampungan Budaya Betawi Setu Babakan yang dilakukan oleh Frances Caitlin Tirtaguna dalam rangka penerbitan bukunya yang berjudul ‘’.</string>
+    <string name="title_aplikasi_setu_babakan">Aplikasi BetawiNese</string>
+    <string name="desc_aplikasi_setu_babakan">Aplikasi BetawiNese merupakan bentuk dari upaya penulis sebagai mahasiswa fakultas Ilmu Komputer dan Teknologi Informasi Gunadarma yang saat ini tengah melaksanakan penelitian dalam rangka menyelesaikan tugas akhir yakni skripsi sebagai salah satu syarat utama kelulusan guna memperoleh gelar Sarjana Sistem Informasi.</string>
+    <string name="help_setu">Pengguna yang memiliki pertanyaan yang membutuhkan jawaban lebih detail mengenai hal seputar aplikasi BetawiNese, dapat menghubungi social media penulis dibawah ini :</string>
+    <string name="help_setu_desc">Whatsapp : 087877539444\nInstagram : shfmutiara\ntwiter : sugarglideerer\nfacebook : shafa mutiara</string>
+    <string name="empty_state_comment">Oopps, look like there no comment</string>
+    <string name="empty_state_like">Oops, looks like there is no like</string>
+</resources>
