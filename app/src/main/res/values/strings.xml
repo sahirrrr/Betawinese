@@ -40,4 +40,6 @@ Pada tahun 2016, perkampungan Budaya Betawi ini mulai membuat museum Betawi yang
     <string name="help_setu_desc">Whatsapp : 087877539444\nInstagram : shfmutiara\ntwiter : sugarglideerer\nfacebook : shafa mutiara</string>
     <string name="empty_state_comment">Oopps, look like there no comment</string>
     <string name="empty_state_like">Oops, looks like there is no like</string>
+    <string name="label_selangkapnya">Selengkapnya</string>
+    <string name="logo">logo</string>
 </resources>

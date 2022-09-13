@@ -48,6 +48,12 @@ class BudayaAdapter: RecyclerView.Adapter<BudayaAdapter.BudayaViewHolder>() {
                     intent.putExtra(DetailActivity.EXTRA_ID, budaya)
                     itemView.context.startActivity(intent)
                 }
+
+                btnSelengkapnya.setOnClickListener {
+                    val intent = Intent(itemView.context, DetailActivity::class.java)
+                    intent.putExtra(DetailActivity.EXTRA_ID, budaya)
+                    itemView.context.startActivity(intent)
+                }
             }
         }
     }
